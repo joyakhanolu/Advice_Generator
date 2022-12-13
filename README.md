@@ -1,8 +1,5 @@
 # Alx SE Portfolio Project - Advice generator
 
-
-
-
 ## Overview
 
 ### The Project
